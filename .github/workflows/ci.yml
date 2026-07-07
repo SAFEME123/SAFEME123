@@ -20,19 +20,28 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Show Node & npm versions and workspace
+        run: |
+          node -v
+          npm -v
+          pwd
+          ls -la
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      - name: Generate README stats
+      - name: Generate README stats (debug)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: node .github/scripts/generate-stats.js
+        run: |
+          set -o pipefail
+          node .github/scripts/generate-stats.js 2>&1 | sed -u 's/^/SCRIPT: /'
 
       - name: Commit and push changes
         env:
