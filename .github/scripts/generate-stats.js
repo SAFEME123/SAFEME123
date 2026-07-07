@@ -65,16 +65,12 @@ const { Octokit } = require('@octokit/rest');
     const statsBlock = `<!-- STATS_START -->
 <div align="center">
 
-<p>
+**Repositories:** ${totalRepos} | **Stars:** ${totalStars} | **Forks:** ${totalForks}
 
-- Repositories: **${totalRepos}** • Stars: **${totalStars}** • Forks: **${totalForks}**
+[![GitHub followers](https://img.shields.io/github/followers/${username}?label=Followers&style=social)](https://github.com/${username})
+[![GitHub User's stars](https://img.shields.io/github/stars/${username}?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/${username}?tab=stars)
 
-</p>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=algolia&langs_count=8" alt="Top Languages"/>
-
-<p>Top languages: ${topLanguages || 'N/A'}</p>
+**Top Languages:** ${topLanguages || 'N/A'}
 
 </div>
 <!-- STATS_END -->`;
@@ -98,7 +94,7 @@ const { Octokit } = require('@octokit/rest');
     }
 
     fs.writeFileSync(readmePath, readme, 'utf8');
-    console.log('README.md updated with latest stats.');
+    console.log('README.md updated with latest stats using Shields.io badges.');
     console.log('--- END generate-stats.js ---');
     process.exit(0);
   } catch (err) {
