@@ -11,6 +11,21 @@
 <!-- STATS_START -->
 <div align="center">
 
+**Repositories:** 4 | **Stars:** 2 | **Forks:** 0
+
+[![GitHub followers](https://img.shields.io/github/followers/SAFEME123?label=Followers&style=social)](https://github.com/SAFEME123)
+[![GitHub User's stars](https://img.shields.io/github/stars/SAFEME123?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/SAFEME123?tab=stars)
+
+**Top Languages:** Dockerfile (1)
+
+</div>
+<!-- STATS_END -->
+
+---
+
+<!-- STATS_START -->
+<div align="center">
+
 [![GitHub followers](https://img.shields.io/github/followers/SAFEME123?label=Followers&style=social)](https://github.com/SAFEME123)
 [![GitHub User's stars](https://img.shields.io/github/stars/SAFEME123?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/SAFEME123?tab=stars)
 
