@@ -71,19 +71,27 @@
 
 ## 🚀 Featured Projects
 
-> A few projects I’m proud of — I'll replace these with real repo links if you want.
+> A few projects I’m actively working on — real repo links from this account.
 
-- [Project-One](https://github.com/SAFEME123/Project-One) — Short description about what it does and tech used.
-- [Project-Two](https://github.com/SAFEME123/Project-Two) — Short description about the challenge it solves.
-- [Project-Three](https://github.com/SAFEME123/Project-Three) — Tools/stack and what you learned.
+- [BASIL-MD](https://github.com/SAFEME123/BASIL-MD) — A powerful, feature-rich WhatsApp Bot built with Node.js & Baileys. (Language: Dockerfile / Node)
+- [fStikBot](https://github.com/SAFEME123/fStikBot) — Favorite stickers Telegram bot (fork). (Use: Telegram bot)
+- [quote-api](https://github.com/SAFEME123/quote-api) — Telegram quote API (fork).
 
 ---
 
 ## 🔭 What I'm Learning
 
-- Advanced C++ (modern standards, performance patterns)
+- Advanced C++ (modern standards, performance patterns) — actively practicing and building small demos.
 - System design and scalable backend architectures
 - DevOps practices and container orchestration with Kubernetes
+
+---
+
+## 🧪 CI / Workflow
+
+[![CI](https://github.com/SAFEME123/SAFEME123/actions/workflows/ci.yml/badge.svg)](https://github.com/SAFEME123/SAFEME123/actions/workflows/ci.yml)
+
+I added a small placeholder GitHub Actions workflow (CI) to this repo so you can expand it into real checks later. The badge above will show the workflow status once it has run.
 
 ---
 
@@ -93,8 +101,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAFEME123)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:strikerboywork@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 </div>
 
@@ -110,22 +116,16 @@
 
 ## Notes & Suggestions (from Copilot)
 
-- Activity graph & streak images: These use third-party Heroku-hosted services (activity-graph.herokuapp.com and readme-streak-stats.herokuapp.com). They look great but can be unreliable if the service is down — that's usually okay for a profile README, but if you rely on them for demos or a portfolio, consider more reliable alternatives:
-  - Use the official GitHub contributions calendar (it's built into GitHub profiles).
-  - Replace images with GitHub Actions-generated SVGs that are stored in your repo.
-  - Use services like WakaTime or Shields badges for metrics that are actively maintained.
-- What's missing / suggestions to improve your README:
-  - Short pinned "About" section for your top repo(s) or a one-line bio under the header.
-  - Quick "How to run" or a demo GIF/readme for your main project(s).
-  - Add badges for build status, license, or current open issues (if applicable).
-  - More concrete descriptions for the Featured Projects (1 sentence each) and direct links to demos or live sites.
-  - If you want C++ to appear in Top Languages, add or highlight C++ repos or create a small demo repo with C++ code.
-  - Consider adding a short "What I look for in collaborators" or "How to contribute" section if you want contributions.
+- Activity graph & streak images: These use third-party Heroku-hosted services (activity-graph.herokuapp.com and readme-streak-stats.herokuapp.com). They look great but can be unreliable if the service is down — that's usually okay for a profile README, but for portfolio/demo reliability consider alternatives (GitHub Actions-generated SVGs, WakaTime, or built-in GitHub contributions).
+- Additional improvements you can do:
+  - Add a short one-line bio under the header (e.g., “Full-stack dev | C++ & JS | building X”).
+  - Add demo GIFs or screenshots for the Featured Projects.
+  - Add CI/tests to the featured repositories and include their badges here.
+  - If you want C++ to appear in Top Languages, add or highlight C++ repositories or small demo projects.
 
-If you'd like, I can:
-- Replace the placeholder featured project links with real repos from your account (I can search and insert them).
-- Swap the activity graph for a GitHub Actions-built SVG for higher reliability.
-- Add a short demo GIF for any specific project (send me the repo or GIF).
+If you'd like, I can now:
+- Add demo GIF(s) or screenshots to the Featured Projects (point me to the images or repos).
+- Expand the CI workflow to run real checks (lint/tests) for a specific project (tell me which project to target).
+- Replace activity graph images with Actions-generated SVGs for reliability.
 
 ---
-
