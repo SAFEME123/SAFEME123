@@ -1,7 +1,7 @@
 # Hey there! 👋 Welcome to my GitHub Profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" />
 </div>
 
 ---
@@ -31,6 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -52,6 +53,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
+  <!-- Note: third-party services (activity graph, streak stats) are free Heroku endpoints and can be unreliable. See "Notes & Suggestions" below. -->
   <img src="https://activity-graph.herokuapp.com/graph?username=SAFEME123&theme=algolia&hide_border=true" alt="Activity Graph" />
 </div>
 
@@ -67,12 +69,32 @@
 
 ---
 
-## 📫 Let's Connect!
+## 🚀 Featured Projects
+
+> A few projects I’m proud of — I'll replace these with real repo links if you want.
+
+- [Project-One](https://github.com/SAFEME123/Project-One) — Short description about what it does and tech used.
+- [Project-Two](https://github.com/SAFEME123/Project-Two) — Short description about the challenge it solves.
+- [Project-Three](https://github.com/SAFEME123/Project-Three) — Tools/stack and what you learned.
+
+---
+
+## 🔭 What I'm Learning
+
+- Advanced C++ (modern standards, performance patterns)
+- System design and scalable backend architectures
+- DevOps practices and container orchestration with Kubernetes
+
+---
+
+## 🤝 Let's Connect!
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAFEME123)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:strikerboywork@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 </div>
 
@@ -83,3 +105,27 @@
 </div>
 
 ⭐ If you find my repositories helpful, feel free to star them!
+
+---
+
+## Notes & Suggestions (from Copilot)
+
+- Activity graph & streak images: These use third-party Heroku-hosted services (activity-graph.herokuapp.com and readme-streak-stats.herokuapp.com). They look great but can be unreliable if the service is down — that's usually okay for a profile README, but if you rely on them for demos or a portfolio, consider more reliable alternatives:
+  - Use the official GitHub contributions calendar (it's built into GitHub profiles).
+  - Replace images with GitHub Actions-generated SVGs that are stored in your repo.
+  - Use services like WakaTime or Shields badges for metrics that are actively maintained.
+- What's missing / suggestions to improve your README:
+  - Short pinned "About" section for your top repo(s) or a one-line bio under the header.
+  - Quick "How to run" or a demo GIF/readme for your main project(s).
+  - Add badges for build status, license, or current open issues (if applicable).
+  - More concrete descriptions for the Featured Projects (1 sentence each) and direct links to demos or live sites.
+  - If you want C++ to appear in Top Languages, add or highlight C++ repos or create a small demo repo with C++ code.
+  - Consider adding a short "What I look for in collaborators" or "How to contribute" section if you want contributions.
+
+If you'd like, I can:
+- Replace the placeholder featured project links with real repos from your account (I can search and insert them).
+- Swap the activity graph for a GitHub Actions-built SVG for higher reliability.
+- Add a short demo GIF for any specific project (send me the repo or GIF).
+
+---
+
