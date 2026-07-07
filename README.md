@@ -1,7 +1,7 @@
 # Hey there! 👋 Welcome to my GitHub Profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Full+Stack+Developer;Problem+Solver;Open+Source[...]">
 </div>
 
 ---
@@ -91,7 +91,7 @@
 
 [![CI](https://github.com/SAFEME123/SAFEME123/actions/workflows/ci.yml/badge.svg)](https://github.com/SAFEME123/SAFEME123/actions/workflows/ci.yml)
 
-I added a small placeholder GitHub Actions workflow (CI) to this repo so you can expand it into real checks later. The badge above will show the workflow status once it has run.
+This repository includes a small placeholder GitHub Actions workflow (CI) you can expand into real checks later. The badge above will show the workflow status once it has run.
 
 ---
 
@@ -111,21 +111,5 @@ I added a small placeholder GitHub Actions workflow (CI) to this repo so you can
 </div>
 
 ⭐ If you find my repositories helpful, feel free to star them!
-
----
-
-## Notes & Suggestions (from Copilot)
-
-- Activity graph & streak images: These use third-party Heroku-hosted services (activity-graph.herokuapp.com and readme-streak-stats.herokuapp.com). They look great but can be unreliable if the service is down — that's usually okay for a profile README, but for portfolio/demo reliability consider alternatives (GitHub Actions-generated SVGs, WakaTime, or built-in GitHub contributions).
-- Additional improvements you can do:
-  - Add a short one-line bio under the header (e.g., “Full-stack dev | C++ & JS | building X”).
-  - Add demo GIFs or screenshots for the Featured Projects.
-  - Add CI/tests to the featured repositories and include their badges here.
-  - If you want C++ to appear in Top Languages, add or highlight C++ repositories or small demo projects.
-
-If you'd like, I can now:
-- Add demo GIF(s) or screenshots to the Featured Projects (point me to the images or repos).
-- Expand the CI workflow to run real checks (lint/tests) for a specific project (tell me which project to target).
-- Replace activity graph images with Actions-generated SVGs for reliability.
 
 ---
