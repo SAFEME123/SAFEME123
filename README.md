@@ -17,8 +17,8 @@
 
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAFEME123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFEME123&layout=compact&theme=algolia&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://images.weserv.nl/?url=https://github-readme-stats.vercel.app/api?username=SAFEME123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://images.weserv.nl/?url=https://github-readme-stats.vercel.app/api/top-langs/?username=SAFEME123&layout=compact&theme=algolia&langs_count=8" alt="Top Languages"/>
 
 <p>Top languages: Dockerfile (1)</p>
 
