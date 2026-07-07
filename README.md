@@ -11,16 +11,12 @@
 <!-- STATS_START -->
 <div align="center">
 
-<p>
+**Repositories:** 4 | **Stars:** 2 | **Forks:** 0
 
-- Repositories: **4** • Stars: **2** • Forks: **0**
+[![GitHub followers](https://img.shields.io/github/followers/SAFEME123?label=Followers&style=social)](https://github.com/SAFEME123)
+[![GitHub User's stars](https://img.shields.io/github/stars/SAFEME123?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/SAFEME123?tab=stars)
 
-</p>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAFEME123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFEME123&layout=compact&theme=algolia&langs_count=8" alt="Top Languages"/>
-
-<p>Top languages: Dockerfile (1)</p>
+**Top Languages:** Dockerfile (1)
 
 </div>
 <!-- STATS_END -->
