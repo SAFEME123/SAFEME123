@@ -11,49 +11,49 @@
 <!-- STATS_START -->
 <div align="center">
 
-**Repositories:** 4 | **Stars:** 2 | **Forks:** 0
-
 [![GitHub followers](https://img.shields.io/github/followers/SAFEME123?label=Followers&style=social)](https://github.com/SAFEME123)
 [![GitHub User's stars](https://img.shields.io/github/stars/SAFEME123?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/SAFEME123?tab=stars)
 
-**Top Languages:** Dockerfile (1)
-
-</div>
-<!-- STATS_END -->
-
----
-
 <div align="center">
 
-<table>
-  <tr>
-    <td colspan="3">
-      <h3>✨ GitHub Profile Stats</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-        <img src="https://img.shields.io/badge/Repositories-4-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-      </div>
-    </td>
-    <td width="33%">
-      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-        <img src="https://img.shields.io/badge/Stars-2-yellow?style=for-the-badge&logo=star&logoColor=white" alt="Stars" />
-      </div>
-    </td>
-    <td width="33%">
-      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-        <img src="https://img.shields.io/badge/Forks-0-green?style=for-the-badge&logo=git&logoColor=white" alt="Forks" />
-      </div>
-    </td>
-  </tr>
-</table>
+#### ✨ GitHub Profile Stats
+
+<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Repositories Card -->
+  <rect x="20" y="10" width="260" height="100" rx="15" fill="url(#grad1)" filter="url(#shadow)" opacity="0.9"/>
+  <text x="150" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">4</text>
+  <text x="150" y="70" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Repositories</text>
+  
+  <!-- Stars Card -->
+  <rect x="320" y="10" width="260" height="100" rx="15" fill="url(#grad2)" filter="url(#shadow)" opacity="0.9"/>
+  <text x="450" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">2</text>
+  <text x="450" y="70" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">⭐ Total Stars</text>
+  
+  <!-- Forks Card -->
+  <rect x="620" y="10" width="260" height="100" rx="15" fill="url(#grad3)" filter="url(#shadow)" opacity="0.9"/>
+  <text x="750" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">0</text>
+  <text x="750" y="70" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Forks</text>
+</svg>
 
 <br/>
-
-<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 30px; border-radius: 20px; backdrop-filter: blur(20px); border: 1px solid rgba(102, 126, 234, 0.3); box-shadow: 0 8px 32px rgba(0,0,0,0.2); animation: slideIn 0.8s ease-out;">
-
 ### 🎯 Live Metrics
 
 [![GitHub followers](https://img.shields.io/github/followers/SAFEME123?label=👥+Followers&style=flat-square&color=667eea&labelColor=2d2d44)](https://github.com/SAFEME123?tab=followers)
