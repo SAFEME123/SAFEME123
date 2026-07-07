@@ -1,7 +1,7 @@
 # Hey there! 👋 Welcome to my GitHub Profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Full+Stack+Developer;Problem+Solver;Open+Source[...]">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;I'M+STRIKERBOY;A+Full+Stack+Developer;Problem+Solver;Open+Source[...]">
 </div>
 
 ---
