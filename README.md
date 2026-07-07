@@ -8,27 +8,69 @@
 
 ### 📊 GitHub Statistics
 
-<!-- STATS_START -->
 <div align="center">
 
-**Repositories:** 4 | **Stars:** 2 | **Forks:** 0
+<table>
+  <tr>
+    <td colspan="3">
+      <h3>✨ GitHub Profile Stats</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/Repositories-4-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+      </div>
+    </td>
+    <td width="33%">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/Stars-2-yellow?style=for-the-badge&logo=star&logoColor=white" alt="Stars" />
+      </div>
+    </td>
+    <td width="33%">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/Forks-0-green?style=for-the-badge&logo=git&logoColor=white" alt="Forks" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-[![GitHub followers](https://img.shields.io/github/followers/SAFEME123?label=Followers&style=social)](https://github.com/SAFEME123)
-[![GitHub User's stars](https://img.shields.io/github/stars/SAFEME123?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/SAFEME123?tab=stars)
+<br/>
 
-**Top Languages:** Dockerfile (1)
+<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 30px; border-radius: 20px; backdrop-filter: blur(20px); border: 1px solid rgba(102, 126, 234, 0.3); box-shadow: 0 8px 32px rgba(0,0,0,0.2); animation: slideIn 0.8s ease-out;">
+
+### 🎯 Live Metrics
+
+[![GitHub followers](https://img.shields.io/github/followers/SAFEME123?label=👥+Followers&style=flat-square&color=667eea&labelColor=2d2d44)](https://github.com/SAFEME123?tab=followers)
+&nbsp;
+[![GitHub User's stars](https://img.shields.io/github/stars/SAFEME123?affiliations=OWNER&label=⭐+Total+Stars&style=flat-square&color=f5576c&labelColor=2d2d44)](https://github.com/SAFEME123?tab=stars)
+
+**Top Languages:** 
+<img src="https://img.shields.io/badge/Dockerfile-1-blue?style=flat-square&logo=docker&logoColor=white" alt="Dockerfile" />
+<img src="https://img.shields.io/badge/JavaScript-Node.js-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 
 </div>
-<!-- STATS_END -->
 
----
+<style>
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
 
-<div align="center">
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
 
-**Repositories:** 4 | **Stars:** 2 | **Forks:** 0
+@keyframes glow {
+  0%, 100% { box-shadow: 0 0 20px rgba(102, 126, 234, 0.5); }
+  50% { box-shadow: 0 0 30px rgba(118, 75, 162, 0.8); }
+}
 
-[![GitHub followers](https://img.shields.io/github/followers/SAFEME123?label=Followers&style=social)](https://github.com/SAFEME123)
-[![GitHub User's stars](https://img.shields.io/github/stars/SAFEME123?affiliations=OWNER&label=Total%20Stars&style=social)](https://github.com/SAFEME123?tab=stars)
+.stats-container {
+  animation: glow 3s ease-in-out infinite;
+}
+</style>
 
 </div>
 
