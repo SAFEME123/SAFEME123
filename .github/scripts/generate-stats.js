@@ -107,4 +107,4 @@ const { Octokit } = require('@octokit/rest');
     // Exit with non-zero so Actions shows failure, but with full trace printed
     process.exit(1);
   }
-})();});
+})();
