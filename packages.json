@@ -1,0 +1,11 @@
+{
+  "name": "readme-stats-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Small script to generate GitHub stats and inject them into README.md",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^19.0.7"
+  }
+}
