@@ -27,50 +27,10 @@
 
 ---
 
-<div align="center">
-
-<table>
-  <tr>
-    <td><b>Repositories</b></td>
-    <td><b>Stars</b></td>
-    <td><b>Forks</b></td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>2</td>
-    <td>0</td>
-  </tr>
-</table>
-
-**Top Languages:** JavaScript • Python • TypeScript • C++ • HTML5 • CSS3
-
-</div>
-
----
-
-### 💻 GitHub Stats Card
+## 🔥 Contribution Streak
 
 <div align="center">
-
-[![SAFEME123's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAFEME123&show_icons=true&theme=dracula&hide_border=true)](https://github.com/SAFEME123)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAFEME123&layout=compact&theme=dracula&hide_border=true)](https://github.com/SAFEME123)
-
-</div>
-
----
-
-## 🔥 Contribution Stats
-
-<div align="center">
-
-| Metric | Count |
-|--------|-------|
-| Total Contributions | 64 |
-| Current Streak | 1 day |
-| Longest Streak | 6 days |
-| Period | Feb 25 - Present |
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAFEME123&theme=algolia" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -98,6 +58,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <!-- Note: third-party services (activity graph, streak stats) are free Heroku endpoints and can be unreliable. See "Notes & Suggestions" below. -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=SAFEME123&theme=algolia&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
