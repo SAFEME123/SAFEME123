@@ -1,36 +1,57 @@
 # Hey there! 👋 Welcome to my GitHub Profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;I'M+STRIKERBOY;A+Full+Stack+Developer;Problem+Solver;Open+Source[...]">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;I'M+STRIKERBOY;A+Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 📊 GitHub Statistics
 
-<!-- STATS_START -->
 <div align="center">
 
-<p>
+<table>
+  <tr>
+    <td><b>Repositories</b></td>
+    <td><b>Stars</b></td>
+    <td><b>Forks</b></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>2</td>
+    <td>0</td>
+  </tr>
+</table>
 
-- Repositories: **4** • Stars: **2** • Forks: **0**
-
-</p>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAFEME123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFEME123&layout=compact&theme=algolia&langs_count=8" alt="Top Languages"/>
-
-<p>Top languages: Dockerfile (1)</p>
+**Top Languages:** JavaScript • Python • TypeScript • C++ • HTML5 • CSS3
 
 </div>
-<!-- STATS_END -->
 
 ---
 
-## 🔥 Contribution Streak
+### 💻 GitHub Stats Card
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAFEME123&theme=algolia" alt="GitHub Streak Stats" />
+
+[![SAFEME123's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAFEME123&show_icons=true&theme=dracula&hide_border=true)](https://github.com/SAFEME123)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAFEME123&layout=compact&theme=dracula&hide_border=true)](https://github.com/SAFEME123)
+
+</div>
+
+---
+
+## 🔥 Contribution Stats
+
+<div align="center">
+
+| Metric | Count |
+|--------|-------|
+| Total Contributions | 64 |
+| Current Streak | 1 day |
+| Longest Streak | 6 days |
+| Period | Feb 25 - Present |
+
 </div>
 
 ---
@@ -62,15 +83,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <!-- Note: third-party services (activity graph, streak stats) are free Heroku endpoints and can be unreliable. See "Notes & Suggestions" below. -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=SAFEME123&theme=algolia&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
 ## 💼 About Me
 
 - 🔭 Currently working on exciting projects
@@ -83,7 +95,7 @@
 
 ## 🚀 Featured Projects
 
-> A few projects I’m actively working on — real repo links from this account.
+> A few projects I'm actively working on — real repo links from this account.
 
 - [BASIL-MD](https://github.com/SAFEME123/BASIL-MD) — A powerful, feature-rich WhatsApp Bot built with Node.js & Baileys. (Language: Dockerfile / Node)
 - [fStikBot](https://github.com/SAFEME123/fStikBot) — Favorite stickers Telegram bot (fork). (Use: Telegram bot)
