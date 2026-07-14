@@ -78,10 +78,9 @@
 
 ## 💼 About Me
 
-- 🔭 **Currently Building:** **Project CliQ** (a high-performance, web-first API management platform) and advanced automation bots.
 - 🌱 **Deep Diving Into:** Advanced C++ execution, scalable backend architecture, and integrating Model Context Protocol (MCP) servers with AI environments.
-- 📈 **Interests:** Algorithmic trading, technical market analysis (MetaTrader 5), and multi-network ad mediation. 
-- ⚡ **Fun Fact:** When I'm not troubleshooting servers or writing backend logic, you can usually find me playing FIFA or producing custom AI music tracks—from dark electronic pop and R&B to Amapiano!
+- 📈 **Interests:** Algorithmic trading, technical market analysis (MetaTrader 5), and more About security Analysis in Cyber security.
+- ⚡ **Fun Fact:** When I'm not troubleshooting servers or writing backend logic, you can usually find me playing FIFA or producing custom AI music tracks—from dark electronic pop and R&B to Amapiano and more exciting things I do!
 
 ---
 
@@ -90,7 +89,6 @@
 > A look into what I'm actively developing and contributing to.
 
 - 🤖 [**BASIL-MD**](https://github.com/SAFEME123/BASIL-MD) — A powerful, feature-rich WhatsApp automation bot built with Node.js & Baileys, supporting custom gateways.
-- 📉 **Strikerboy-Deriv-Bot** — Localized automated trading application designed for high-efficiency market execution.
 - 💬 [**fStikBot**](https://github.com/SAFEME123/fStikBot) — Favorite stickers Telegram bot (fork).
 - 📜 [**quote-api**](https://github.com/SAFEME123/quote-api) — Telegram quote API (fork).
 
