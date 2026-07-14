@@ -85,7 +85,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SAFEME123&theme=algolia&hide_border=true" alt="Activity Graph" />
+ <img src="https://streak-stats.demolab.com/?user=SAFEME123&theme=algolia" alt="GitHub Streak Stats" />
 </div>
 
 ---
